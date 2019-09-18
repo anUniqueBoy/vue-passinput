@@ -9,6 +9,7 @@
     "type": "git",
     "url": "https://github.com/anUniqueBoy/vue-passinput"
   },
+  "keywords": ["vue-passinput","paypass","paypass-input","password-input","pay-input"],
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
