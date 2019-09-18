@@ -42,6 +42,6 @@ vue写的支付密码输入框组件，仿京东，可以清空密码框，获�
   ```
  3. 示例图片
  
-![conv_ops](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=702257389,1274025419&fm=27&gp=0.jpg)
+![conv_ops](https://raw.githubusercontent.com/anUniqueBoy/vue-passinput/master/src/aaa.png)
 
 这个密码输入框解决了浏览器记住密码的问题
